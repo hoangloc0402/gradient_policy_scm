@@ -10,5 +10,5 @@
 ## References:
 All the source code is implemented by me based on the original idea from the following article:
 <ul>
-  <li><a href="https://pytorch.org/docs/stable/torchvision/transforms.html">Reinforcement Learning in the Supply Chain</a></li>
+  <li><a href="https://medium.com/streamba-data/reinforcement-learning-in-the-supply-chain-2fd56ab59c2e">Reinforcement Learning in the Supply Chain</a></li>
 </ul>
